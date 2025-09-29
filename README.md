@@ -52,7 +52,7 @@ ArmSoM-Sige 系列：软路由、单板计算机、小型服务器与智能家�
    libgmp3-dev libltdl-dev libmpc-dev libmpfr-dev libncurses5-dev libncursesw5-dev libpython3-dev \
    libreadline-dev libssl-dev libtool llvm lrzsz libnsl-dev ninja-build p7zip p7zip-full patch pkgconf \
    python3 python3-pyelftools python3-setuptools qemu-utils rsync scons squashfs-tools subversion \
-   swig texinfo uglifyjs upx-ucl unzip vim wget xmlto xxd zlib1g-dev
+   swig texinfo uglifyjs upx-ucl unzip vim wget xmlto xxd zlib1g-dev upx-ucl
    ```
 
 3. 下载源代码，更新 feeds 并选择配置
